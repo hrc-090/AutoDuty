@@ -1,7 +1,7 @@
 [readme.md](https://github.com/user-attachments/files/28324393/readme.md)
 
 > [!IMPORTANT]
-> **温馨提示**：本项目有绝大部分代码由**氛围编程 (Vibe Coding)** 方式编写。
+> **温馨提示**：本项目代码由**氛围编程 (Vibe Coding)** 方式编写。
 
 # 值日安排自动化管理系统
 
