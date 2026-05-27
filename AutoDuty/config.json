@@ -1,0 +1,13 @@
+{
+  "api_url": "http://localhost:36000/durty",
+  "desktop_path": ".",
+  "switch_time": 19,
+  "sunday_handling": {
+    "before_switch_time": "get_prev_day",  // 周日未到切换时间时的行为：获取前一天
+    "after_switch_time": "get_next_day"    // 周日过了切换时间时的行为：获取下一天
+  },
+  "files": {
+    "duty_schedule": "data\\值日表.xlsx",
+    "aliases": "data\\aliases.xlsx"
+  }
+}
