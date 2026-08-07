@@ -1,6 +1,6 @@
 [readme.md](https://github.com/user-attachments/files/28324393/readme.md)
 > [!IMPORTANT]
-> > **该项目已废弃**
+>  **该项目已废弃**
 
 > [!IMPORTANT]
 > **温馨提示**：本项目代码由**氛围编程 (Vibe Coding)** 方式编写。
